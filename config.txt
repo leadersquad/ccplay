@@ -1,4 +1,4 @@
-token=NTE1MDMxMzA5MDUyMDE4Njk5.DtfL7g.Li8hI7fh-QEdB5ptz4-1e4b1fhQ
+token=NTE1MDMxMzA5MDUyMDE4Njk5.DthA8w.6UWL-4k3jfO-l50hvroX2_5iCJw
 owner=490803489765720064
 prefix= C
 game= Chelp
