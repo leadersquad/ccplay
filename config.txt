@@ -1,0 +1,6 @@
+token=NTE1MDMxMzA5MDUyMDE4Njk5.DtfL7g.Li8hI7fh-QEdB5ptz4-1e4b1fhQ
+owner=490803489765720064
+prefix= C
+game= Chelp
+stayinchannel=true
+songinstatus=true
